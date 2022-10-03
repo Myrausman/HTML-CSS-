@@ -26,37 +26,37 @@
 
 <div id="profile-link" >
  <img width="400"src="https://i.pinimg.com/736x/78/d3/eb/78d3ebf183c12ce2423da6e9c41c5a65.jpg" alt="LA"></img>
- <p><h3>hobbies: </h3>
+ <p><h2>Hobbies</h2>
    <ul=><li>
-     study
+     Study
      </li>
      <li>
-     paint
+     Paint
     </li>
      <li>
-     code
+     Code
      </li>
      <li>
-     cook
+     Cook
      </li>
      </ul>
  </p>
 </div>
 <div id="skills" >
- <h2> SKILLS</h2>
+ <h2>Skills</h2>
 <p>
   <ul>
     <li>
      C++
      </li>
      <li>
-     CHISEL
+     Chisel
      </li>
      <li>
      Data Analyst
      </li>
      <li>
-     Graphic designing
+     Graphic Designing
      </li>
      <li>
      Python
@@ -66,7 +66,7 @@
           (HTML/CSS)
     </li>
     <li>
-     SQL
+     Sql
      </li>
      <li>
      Wordpress
@@ -75,7 +75,7 @@
 </p>
  </div>
 <div id="contact" >
- <h2> CONTACTS</h2>
+ <h2> Contacts</h2>
 <p>
   <ul>
     <li>
@@ -83,19 +83,19 @@
      LinkedIn </a>
      </li>
      <li>
-    <a href="https://github.com/Myrausman"> GITHUB</a>
+    <a href="https://github.com/Myrausman"> Github</a>
      </li>
      <li>
-     <a href="21b-011-se@students.uit.edu"> EMAIL</a>
+     <a href="21b-011-se@students.uit.edu"> Email</a>
      </li>
      <li>
-     Phone:03******971
+     Phone: 03******971
      </li>
      </ul>
 </p>
  </div>
  <div id="about" >
- <h2> ABOUT ME</h2>
+ <h2> About Me</h2>
 <p>I am Maira Usman from PAKISTAN.I have spent my teen-life in SAUDI ARAB.Currently,I'm doing Bachelors of Science in Software Engineering from Usman Institute of Technology. I am training from MERL Pakistan to learn more about CHISEL and SystemVerilog.I have done courses of Data Analyst and wordpress and a long list in my skills.I look forward to learn more as each day passes. My passion for coding is getting bigger and bigger and as well as my skills are improving day by day.  </p>
 </body>
 </html>
